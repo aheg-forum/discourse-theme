@@ -1,0 +1,17 @@
+{
+  "name": "aheg-custom",
+  "component": true,
+  "license_url": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt",
+  "about_url": "https://environmentassembly.unenvironment.org/expert-group-on-marine-litter",
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
