@@ -3,3 +3,14 @@
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+header.b-header {
+    background-color: #00aeff;
+}
+
+header.b-header .nav-pills li a:hover {
+    //color: #00aeff;
+    //background-color: #ffffff;
+    background-color: #00aeff;
+    color: #ffffff;
+}
