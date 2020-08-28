@@ -23,8 +23,10 @@
         if (url === "/" || url === homeRoute ){ 
           // If it's the homepage add the 'custom-homepage' class to HTML tag
           // and set 'displayCustomHomepage' to true
-          document.querySelector("html").classList.add("custom-homepage"); 
-          component.set("displayCustomHomepage", true); 
+          document.querySelector("html").classList.add("custom-homepage");
+          
+          // disabled
+          component.set("displayCustomHomepage", false); 
         } else {  
           // If we're not on the homepage remove the class
           // and set `displayCustomHomepage` to false

@@ -2,6 +2,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    font-size: 16px;
 }
 
 header.b-header {
@@ -13,4 +14,32 @@ header.b-header .nav-pills li a:hover {
     //background-color: #ffffff;
     background-color: #00aeff;
     color: #ffffff;
+}
+
+.custom-footer {
+  background-color: #00aeff !important;
+}
+
+.custom-footer .third-box .small-link {
+    color: #fff !important;
+}
+
+.custom-footer .first-box .blurb {
+    color: #fff !important;
+}
+
+.custom-footer .footer-section-link-wrapper a {
+    color: #fff !important;
+}
+
+.b-header nav.links {
+    float:right;
+}
+
+.topic-list-item.visited a.title:not(.badge-notification), .latest-topic-list-item.visited a.title:not(.badge-notification), .category-topic-link.visited a.title:not(.badge-notification) {
+    color: #222 ;
+}
+
+.topic-list-main-link, .topic-list .main-link, .latest-topic-list-item .main-link {
+    font-size: 1.2em;
 }
