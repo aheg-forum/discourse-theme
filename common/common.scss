@@ -43,3 +43,7 @@ header.b-header .nav-pills li a:hover {
 .topic-list-main-link, .topic-list .main-link, .latest-topic-list-item .main-link {
     font-size: 1.2em;
 }
+
+div.not-found div.row {
+    visibility: hidden;
+}
